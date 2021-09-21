@@ -1,0 +1,7 @@
+Breakpoint File Version 1.0
+54 true D:/A fall 2019/eecs31l/lab_3/lab_3.srcs/sim_1/new/tb_counter32.vhd
+56 true D:/A fall 2019/eecs31l/lab_3/lab_3.srcs/sim_1/new/tb_counter32.vhd
+42 true D:/A fall 2019/eecs31l/lab_3/lab_3.srcs/sim_1/new/tb_counter32.vhd
+43 true D:/A fall 2019/eecs31l/lab_3/lab_3.srcs/sim_1/new/tb_counter32.vhd
+41 true D:/A fall 2019/eecs31l/lab_3/lab_3.srcs/sim_1/new/tb_counter32.vhd
+45 true D:/A fall 2019/eecs31l/lab_3/lab_3.srcs/sim_1/new/tb_counter32.vhd

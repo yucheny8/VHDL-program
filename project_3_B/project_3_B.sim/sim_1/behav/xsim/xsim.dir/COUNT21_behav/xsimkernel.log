@@ -1,0 +1,7 @@
+Running: xsim.dir/COUNT21_behav/xsimk.exe -simmode gui -wdb COUNT21_behav.wdb -simrunnum 0 -socket 60907
+Design successfully loaded
+Design Loading Memory Usage: 4844 KB (Peak: 4844 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 5352 KB (Peak: 5352 KB)
+Simulation CPU Usage: 62 ms

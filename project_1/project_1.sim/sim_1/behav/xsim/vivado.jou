@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Oct 13 23:43:46 2019
+# Process ID: 13688
+# Current directory: D:/A fall 2019/eecs31l/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1008 D:\A fall 2019\eecs31l\project_1\project_1.sim\sim_1\behav\xsim\FA_behav.wdb
+# Log file: D:/A fall 2019/eecs31l/project_1/project_1.sim/sim_1/behav/xsim/vivado.log
+# Journal file: D:/A fall 2019/eecs31l/project_1/project_1.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {D:\A fall 2019\eecs31l\project_1\project_1.sim\sim_1\behav\xsim\FA_behav.wdb}
+close_sim

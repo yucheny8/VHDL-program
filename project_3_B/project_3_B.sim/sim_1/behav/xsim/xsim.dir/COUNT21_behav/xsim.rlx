@@ -1,0 +1,12 @@
+
+{ 
+    crc :  300572999546603022  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 0a6eb420965e4c61b4a86099f1bcf81c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot COUNT21_behav xil_defaultlib.COUNT21" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "D:\\Xilinx\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/COUNT21_behav/xsimk.exe\"   \"xsim.dir/COUNT21_behav/obj/xsim_0.win64.obj\" \"xsim.dir/COUNT21_behav/obj/xsim_1.win64.obj\" \"D:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"D:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
